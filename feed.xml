@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>GameMaker 2016 Runtime Changelog</title>
-    <link>http://store.yoyogames.com/downloads/gm-studio/update-studio.rss</link>
-    <description>Most recent changes with links to updates.</description>
-    <language>en</language>
-    <!-- END yygames -->
      <item>
       <title>Version 2.2.3.344</title>
       <pubDate>Tue, 09 Jul 2019 17:29:36 Z</pubDate>
